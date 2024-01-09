@@ -1,5 +1,5 @@
 # Data analysis capstone project
-This notebook called "Project M2S4-finalVersion.ipynb" is part of the Turing College assignment of Module 4 Sprint 4. It can be used as a standalone file as it has the code required to download the dataset included. However, user API key is required (instructions provided below). Direct access to the data at https://www.kaggle.com/datasets/prajitdatta/ultimate-25k-matches-football-database-european
+This notebook called "Project M2S4.ipynb" is part of the Turing College assignment of Module 4 Sprint 4. It can be used as a standalone file as it has the code required to download the dataset included. However, user API key is required (instructions provided below). Direct access to the data at https://www.kaggle.com/datasets/prajitdatta/ultimate-25k-matches-football-database-european
 
 # The project introduction
 
